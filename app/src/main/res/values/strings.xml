@@ -5,4 +5,7 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <integer name="com_vk_sdk_AppId">5613344</integer>
+    <string name="facebook_app_id">170460286696378</string>
 </resources>
