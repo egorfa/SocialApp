@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="vp_indicator_normal">@android:color/white</color>
+    <color name="vp_indicator_choosen">@android:color/holo_blue_bright</color>
 </resources>
